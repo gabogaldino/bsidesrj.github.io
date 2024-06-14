@@ -6,4 +6,4 @@ tagline = 'Rio de Janeiro'
 +++
 O evento que faltava na **cidade maravilhosa**
 
-<button class="btn">Fique ligado!</button>
+<button class="https://forms.gle/igkoVfqrC4seLd5R8">Fique ligado!</button>
